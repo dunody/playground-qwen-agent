@@ -283,6 +283,10 @@ We have released [a fast RAG solution](https://github.com/QwenLM/Qwen-Agent/blob
     <img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/assets/qwen_agent/qwen-agent-2405-blog-long-context-results.png" width="400"/>
 <p>
 
+# Quick Runs:
+
+```python run_server.py -m http://gpu-2.lan.sql.com.my:9002/```
+
 # Application: BrowserQwen
 
 BrowserQwen is a browser assistant built upon Qwen-Agent. Please refer to its [documentation](https://github.com/QwenLM/Qwen-Agent/blob/main/browser_qwen.md) for details.

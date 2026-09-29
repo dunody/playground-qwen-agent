@@ -63,6 +63,7 @@ setup(
         'jsonlines',
         'jsonschema',
         'openai',
+        'soundfile==0.14.0',
         'pydantic>=2.3.0',
         'requests',
         'tiktoken',
